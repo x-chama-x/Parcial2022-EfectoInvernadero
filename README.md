@@ -1,5 +1,5 @@
-![Untitled](https://github.com/x-chama-x/Parcial2022-EfectoInvernadero/assets/67705754/27b05708-17b2-4f48-9bbc-4d51482871b3)PARCIAL 2022 JAVA
-![Untitled](https://github.com/x-chama-x/Parcial2022-EfectoInvernadero/assets/67705754/03fcae6d-3ba9-4ed5-9917-f46ab150280e)
+PARCIAL 2022 JAVA
+![Untitled](https://github.com/x-chama-x/Parcial2022-EfectoInvernadero/assets/67705754/27b05708-17b2-4f48-9bbc-4d51482871b3)
 Diagrama UML:
 ![Untitled](https://github.com/x-chama-x/Parcial2022-EfectoInvernadero/assets/67705754/51c31b6c-8aa0-4d21-b87f-58c8bdc59cf0)
 UML FINAL
