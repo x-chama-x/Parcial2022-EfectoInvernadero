@@ -1,9 +1,10 @@
-PARCIAL 2022 JAVA
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f419a1f0-540e-45e3-9cfa-d36e1309076f/Untitled.png)
+![Untitled](https://github.com/x-chama-x/Parcial2022-EfectoInvernadero/assets/67705754/27b05708-17b2-4f48-9bbc-4d51482871b3)PARCIAL 2022 JAVA
+![Untitled](https://github.com/x-chama-x/Parcial2022-EfectoInvernadero/assets/67705754/03fcae6d-3ba9-4ed5-9917-f46ab150280e)
 Diagrama UML:
-![Diagram 2024-02-05 22-06-17.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/dd893beb-7801-45ce-b05f-4d2d64bf0089/c534191d-b593-4fa3-8d5e-63590fe784a1/Diagram_2024-02-05_22-06-17.png)
+![Untitled](https://github.com/x-chama-x/Parcial2022-EfectoInvernadero/assets/67705754/51c31b6c-8aa0-4d21-b87f-58c8bdc59cf0)
 UML FINAL
-![UML.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/dd893beb-7801-45ce-b05f-4d2d64bf0089/6adcf639-237e-4faf-9e48-f6243a0a91a5/UML.png)
+![Untitled](https://github.com/x-chama-x/Parcial2022-EfectoInvernadero/assets/67705754/a87651a8-0e89-4bc6-a4a1-f3115721adfa)
+
 ### La clase `Area` la estoy definiendo como abstracta por las siguientes razones:
 
 1. **No se espera instanciar objetos de la clase Area directamente**: `Area` representa un concepto genérico de área, pero en el problema siempre vamos a necesitar áreas de un tipo específico (gélida, tundra, etc.). Entonces no tiene sentido crear instancias de `Area`, solo de sus subclases concretas.
