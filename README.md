@@ -2,8 +2,10 @@ PARCIAL 2022 JAVA
 
 ![ej](https://github.com/x-chama-x/Parcial2022-EfectoInvernadero/assets/67705754/eb0cbc5c-719a-441a-b4f9-e4219cfd13ce)
 Diagrama UML:
+
 ![Untitled](https://github.com/x-chama-x/Parcial2022-EfectoInvernadero/assets/67705754/51c31b6c-8aa0-4d21-b87f-58c8bdc59cf0)
-UML FINAL
+UML FINAL:
+
 ![Untitled](https://github.com/x-chama-x/Parcial2022-EfectoInvernadero/assets/67705754/a87651a8-0e89-4bc6-a4a1-f3115721adfa)
 
 ### La clase `Area` la estoy definiendo como abstracta por las siguientes razones:
